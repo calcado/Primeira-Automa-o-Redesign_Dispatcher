@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Extract Table Data - From Web App",
+  "Type": "Element",
+  "Id": "6momfuiE4kilm_KXnDNBXA",
+  "Reference": "qiig7TbnVEeo1L2Ry44dew/6momfuiE4kilm_KXnDNBXA",
+  "ParentRef": "qiig7TbnVEeo1L2Ry44dew/WWo6pKvf7kS5kgy1TX2S4g",
+  "Created": "2024-08-25T19:01:26.059154Z",
+  "Updated": "2024-08-25T19:01:26.059154Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
